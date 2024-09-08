@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: chocolate;
+    height: 400px;
+    width: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* display: flex; */
+    /* align-items: center; */
+}
+.logo{
+    margin-top: 0;
+    height: 50px;
+    width: 20%;
+    display: flex;
+}
+.nav{
+    background-color: black;
+    height: 50px;
+    width: 80%;
+    border: 1px solid black;
+    display: flex;
+}
